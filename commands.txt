@@ -1,0 +1,11 @@
+git init
+git status
+git add
+git add .
+git commit -m "message"
+git restore filename
+git restore --staged filename
+git branch
+git branch branch-name
+git checkout branch-name
+git merge branch-name
