@@ -11,3 +11,4 @@ git checkout branch-name
 git merge branch-name
 git clone remote-url
 git remote -v
+git pull origin branch-name
